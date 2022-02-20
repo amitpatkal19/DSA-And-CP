@@ -26,7 +26,7 @@ int arr[1000][1000];
 //         return arr[it][wt]= fun(v,w,wt,it-1);
 // }
 
-//Top down
+//Top-down
 // int fun(int v[], int w[], int wt, int it)
 // {
 //     for(int i=0;i<=it;i++)
