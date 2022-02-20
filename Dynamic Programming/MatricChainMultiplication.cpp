@@ -14,7 +14,7 @@ int solve(int a[], int i, int j)
     }
     return min;
 }
-
+//memoization
 int memo(int a[], int i, int j)
 {
     if(i>=j)
