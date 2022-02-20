@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int mem[100][100];
-//recursive...
+//recursive....
 int solve(int a[], int i, int j)
 {
     if(i>=j)
